@@ -1,0 +1,13 @@
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csprojAssemblyReference.cache
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Frm_login.resources
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.cache
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Admin.resources
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Recp.resources
+C:\Users\nndas\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Users.resources
